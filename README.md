@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stranger-siv&label=Profile%20views&color=0e75b6&style=flat" alt="stranger-siv" /> </p>
+
 <p align="left"> <a href="https://twitter.com/sivram21" target="blank"><img src="https://img.shields.io/twitter/follow/sivram21?logo=twitter&style=for-the-badge" alt="sivram21" /></a> </p>
 
 - 🔭 I’m currently working on [collage major project](Home Service)
@@ -25,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stranger-siv&show_icons=true&locale=en&layout=compact" alt="stranger-siv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stranger-siv&show_icons=true&locale=en" alt="stranger-siv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stranger-siv&show_icons=true&locale=en" alt="stranger-siv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stranger-siv&" alt="stranger-siv" /></p>
