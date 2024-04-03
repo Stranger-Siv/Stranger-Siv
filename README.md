@@ -28,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stranger-siv&show_icons=true&locale=en" alt="stranger-siv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stranger-siv&" alt="stranger-siv" /></p>
