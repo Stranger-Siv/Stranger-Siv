@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/sivram21" target="blank"><img src="https://img.shields.io/twitter/follow/sivram21?logo=twitter&style=for-the-badge" alt="sivram21" /></a> </p>
 
-- 🔭 I’m currently working on [collage major project](Home Service)
+- 🔭 I’m currently working on Backend Development
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **html, css, javascript**
+- 💬 Ask me about **html, css, javascript, React JS **
 
 - 📫 How to reach me **programmersiv21@gmail.com**
 
