@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **html, css, javascript, React JS **
 
-- 📫 How to reach me **programmersiv21@gmail.com**
+- 📫 How to reach me **https://portfolio-siv.netlify.app**
 
 - ⚡ Fun fact **I think I am Passionate To My Works**
 
